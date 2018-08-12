@@ -11,3 +11,11 @@ h1{
   line-height: 1.5em;
   margin:25px;
 }
+
+.parrafo{
+  text-align: center;
+  color:#E19510;
+  font-size:28px;
+  line-height: 1.6em;
+  margin:10px 30px;
+}
