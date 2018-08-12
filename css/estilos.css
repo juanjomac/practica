@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+  color:rgb(255, 209, 179);
+  font-size:50px;
+}
+
+#primera{
+  text-align:justify;
+  color:rgb(179, 100, 179);
+  font-size: 25px;
+  line-height: 1.5em;
+  margin:25px;
+}
