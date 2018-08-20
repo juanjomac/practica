@@ -1,0 +1,23 @@
+commit c41038c82e2aafb067ec7cbc363043243b20e2d9
+Author: juanjomac <juanjo_mac@hotmail.com>
+Date:   Sun Aug 12 20:11:57 2018 -0300
+
+    Agregue el cuarto y quinto parrafo
+
+commit 97b4834c59ae53e901ca1b9537a64aa3fb69f7de
+Author: juanjomac <juanjo_mac@hotmail.com>
+Date:   Sun Aug 12 20:07:35 2018 -0300
+
+    Agregue el tercer parrafo
+
+commit 45e81f8738269dc88ef3216be46acdebca4bb48c
+Author: juanjomac <juanjo_mac@hotmail.com>
+Date:   Sun Aug 12 20:05:50 2018 -0300
+
+    Agrege el segundo parrafo
+
+commit 32e09271b7f2bdab52c080f600f29a87131da924
+Author: juanjomac <juanjo_mac@hotmail.com>
+Date:   Sun Aug 12 19:51:56 2018 -0300
+
+    Inicio del proyecto
